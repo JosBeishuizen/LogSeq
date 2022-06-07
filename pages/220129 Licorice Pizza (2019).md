@@ -1,0 +1,1 @@
+- Heel erg leuke film, gezien in FC Hyena, eerste na de lockdown, zie [recensie](https://www.topics.nl/fantastische-dwaaltocht-door-het-los-angeles-van-de-seventies-a16743793trouw/8914e89870d5472553debd923bede384ac42610367ecc4427c16dcb73b5161dc/?context=zoek/?query=Licorice%20Pizza&referrerUserId=1765e1725727411c8d93a9441c20e103).

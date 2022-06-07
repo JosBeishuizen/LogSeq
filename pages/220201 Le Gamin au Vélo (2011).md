@@ -1,0 +1,1 @@
+- Alweer een prachtige film van de broertjes Dardenne. Op tv gezien. Zie [beschrijving](https://www.vprogids.nl/cinema/films/film~7536574~le-gamin-au-v%C3%A9lo~.html) in de VPRO-gids. Heel mooi, Beethoven's vijfde pianoconcert, weer Alfred Brendel, London Symphony Orchestra olv Bernard Haitink.

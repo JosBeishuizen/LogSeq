@@ -1,0 +1,1 @@
+- Prachtige remake van Steven Spielberg. Zie [Recensie in Trouw](https://www.trouw.nl/cultuur-media/steven-spielbergs-fonkelend-nieuwe-west-side-story-spreekt-zich-uit-tegen-discriminatie~be656a68/?referrer=https%3A%2F%2Fwww.google.com%2F)

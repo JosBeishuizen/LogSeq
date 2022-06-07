@@ -1,0 +1,1 @@
+- Gezien op Netflix. Indrukwekkende film met veel Oscarnominaties. Montana, 1925. Twee broers: Phil en George. Phil is hondsbrutaal, eens soort Trump. Maar kwetsbaar want homoseksueel. Sheet set goed uitgebeeld. Zie [recensie](https://www.nrc.nl/nieuws/2021/11/16/een-fragiele-cowboy-als-alfahond-a4065668).

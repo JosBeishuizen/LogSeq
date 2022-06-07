@@ -1,0 +1,2 @@
+- Gezien op Netflix. Mooi sociaal drama over femminicide in Italië, speciaal Sicilië. Mooie beelden van Senigallia wat we in september waren. Zie [VPRO-gids](https://www.vprogids.nl/cinema/films/film~11700309~i-nostri-ragazzi~.html#:~:text=De%20hoofdpersonages%20zijn%20minder%20onsympathiek,zin%20en%20onzin%20van%20rechtvaardigheid.).
+	-

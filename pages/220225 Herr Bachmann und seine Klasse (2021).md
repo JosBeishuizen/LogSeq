@@ -1,0 +1,2 @@
+- Mooie documentaire gezien in de Filmclub van de Ekklesia. Zie https://www.vprogids.nl/cinema/lees/artikelen/interviews/2021/Regisseur-Maria-Speth-over-Duitse-documentaire-Herr-Bachmann-und-seine-Klasse.html
+- https://www.nrc.nl/nieuws/2021/11/23/bij-herr-bachmann-is-leren-pret-a4066489

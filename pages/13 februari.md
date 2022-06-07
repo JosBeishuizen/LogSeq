@@ -1,0 +1,10 @@
+- *zondag 2022, perioden met zon, droog, 8 - 11°*
+-
+- LATER verslag Ekklesia
+-
+- 06:47 twee recepten en twee blz [[Galgut - Promise]]
+- 08:02 Roeien
+- 08:45 Nu aankleden en ontbijten
+- 10:14 Nu ter kerke.
+- 14:59 Even rusten en lezen.
+- 22:39 En nu naar bed.
