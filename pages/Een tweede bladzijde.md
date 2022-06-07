@@ -1,0 +1,1 @@
+- OK, dit lukt wel. Synchroniseert hij als het gele stipje groen wordt?
