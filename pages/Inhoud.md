@@ -105,8 +105,8 @@
 		- [[Review Edurev 29-03]]
 		- [[Bilingual Teachers’ Competences]]
 	- Studie
-	  collapsed:: true
 		- [[Muziek Studie]]
+		  collapsed:: true
 			- [[Outline op basis van Gombrich]]
 			- [[Sacks - Musicophilia]]
 				- [[Sacks H25 Lamentaties]]
@@ -127,7 +127,6 @@
 		- Torfs: De kerk is fantastisch
 			- [[2. De Kerk als gebouw]]
 	- Docent
-	  collapsed:: true
 		- [[Muziek Lezing]]
 	- Bestuur
 	  collapsed:: true
@@ -295,7 +294,6 @@
 			- [[20220317 David Brooks]]
 			- [[20220409 David Brooks]]
 	- Dagboek
-	  collapsed:: true
 		- 1959
 			- [[maandag 25 mei 1959]]
 		- 1984
