@@ -4,7 +4,6 @@
 	- Vandaag
 		- januari
 		- februari
-		  collapsed:: true
 			- [[1 februari]]
 			- [[2 februari]]
 			- [[3 februari]]
@@ -54,7 +53,6 @@
 			- [[Wed 30 Mar 22]]
 			- [[Thu 31 Mar 22]]
 		- april
-		  collapsed:: true
 			- [[Fri 01 Apr 22]]
 			- [[Sat 02 Apr 22]]
 			- [[Sun 03 Apr 22]]
@@ -81,7 +79,6 @@
 			  [[Sun 24 Apr 22]]
 		- mei
 		- juni
-		  collapsed:: true
 			- [[Wed 01 Jun 22]]
 			- [[Thu 02 Jun 22]]
 			- [[Fri 03 Jun 22]]

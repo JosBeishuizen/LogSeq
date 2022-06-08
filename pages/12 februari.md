@@ -18,9 +18,8 @@
 - 10:13 Nu boodschappen, daarna koffie en kranten
 - $\color{yellow}{X \sim Normal \; (\mu,\sigma^2)}$
 - \alpha en \beta en \phi en \psi
--
-  $$\Huge Hello!$$
-- Markdown doesn't support underline, but we can use <u>HTML Text</u> instead. Also, <b>we</b> can <i>render</i> almost any <span style="color:red;">HTML</span> code that we &nbsp; <kbd>like</kbd> &nbsp; such as superscript<sup>2</sup>.
+- $$\Huge Hello!$$
+- Markdown doesn't support underline, but we can use <u>HTML Text</u> instead. Also, <b>we</b> can <i>render</i> almost any <span style="color:red;">HTML</span> code that we &nbsp; <kbd>like</kbd> &nbsp; such as superscript <sup>2</sup>.
 - 13:05 Nu lunchen en soep maken. \deg
 - 13:14 nog even parool en nrc doorbladeren
 - 23:15 nog even galgut.
